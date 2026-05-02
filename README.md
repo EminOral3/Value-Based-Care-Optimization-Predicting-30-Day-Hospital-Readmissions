@@ -30,7 +30,7 @@ I identified that dynamically lowering the decision threshold to `0.05` mathemat
 ## 💡 The Solution: Interactive Power BI Dashboard
 Instead of hardcoding the threshold, I developed a Power BI dashboard equipped with a **What-If Parameter (Risk Threshold)**. This empowers Hospital Administrators and Chief Medical Officers (CMOs) to dynamically adjust the AI's sensitivity based on their monthly intervention capacity and budget.
 
-*(Include a GIF or Screenshot of your Power BI Dashboard here)*
+
 ![Dashboard Screenshot](adsız1.png) 
 
 ### Key Dashboard Metrics:
