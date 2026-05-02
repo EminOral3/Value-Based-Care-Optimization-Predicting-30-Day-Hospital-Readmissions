@@ -43,8 +43,8 @@ Instead of hardcoding the threshold, I developed a Power BI dashboard equipped w
 * **Environment:** VS Code, Jupyter Notebooks
 
 ## 👨‍💻 About the Author
-**[Your Name / Surname]**
-Data Science & Engineering Student at Politecnico di Torino.
+**Emin Oral**
+Data Science & Engineering Msc. @ Politecnico di Torino.
 Passionate about bridging the gap between advanced predictive modeling and real-world business strategy.
 
-Connect with me on [LinkedIn](Your-LinkedIn-URL)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammedeminoral/)
